@@ -3,4 +3,4 @@ Only plane and spherical components are supported. The order in which the light 
 
 Usage: modify RayTracer.c directly to hardcode the desired setup, compile and run.
 
-Last updated: June 2018
+Last updated: June 2016
